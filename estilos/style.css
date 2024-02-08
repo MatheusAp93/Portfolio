@@ -273,6 +273,7 @@ body {
   .conteudo {
     flex-direction: column-reverse;
     gap: 1rem;
+    padding: 5%;
   }
 
   .contato {
