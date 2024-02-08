@@ -265,7 +265,7 @@ body {
 @media (max-width: 650px) {
 
   .cabecalho__menu {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     gap: 0.5rem;
     align-items: center;
   }
@@ -290,12 +290,12 @@ body {
   }
 
   .apresentacao__conteudo__sobre {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 
   .projeto__descricao {
     margin: 2rem;
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 
   .contato__links__navegacao{
@@ -303,6 +303,6 @@ body {
   }
 
   .rodape {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 }
