@@ -256,6 +256,10 @@ body {
   .projetos__conteudo {
     flex-direction: column;
   }
+
+  .contato__links__navegacao{
+    width: 80%;
+  }
 }
 
 @media (max-width: 650px) {
@@ -292,6 +296,10 @@ body {
   .projeto__descricao {
     margin: 2rem;
     font-size: 1rem;
+  }
+
+  .contato__links__navegacao{
+    width: 100%;
   }
 
   .rodape {
