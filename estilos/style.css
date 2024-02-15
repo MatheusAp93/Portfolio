@@ -247,6 +247,7 @@ body {
   .foto__matheus__sobre {
     width: 80%;
     align-self: center;
+    margin-bottom: 0;
   }
 
   .apresentacao__conteudo,
@@ -284,6 +285,7 @@ body {
   .foto__janela,
   .foto__matheus {
     width: 90%;
+    margin-bottom: 0;
   }
 
   .apresentacao__conteudo,
