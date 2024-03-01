@@ -61,7 +61,7 @@ body {
 }
 
 .apresentacao__conteudo {
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
@@ -83,7 +83,7 @@ body {
 }
 
 .foto__matheus {
-  width: 60%;
+  width: 50%;
   border-radius: 95% 34% 28% 100% / 72% 49% 61% 63% !important;
   box-shadow: 1.25rem 1.25rem 0 var(--cor-terciaria);
   float: right;
