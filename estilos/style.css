@@ -51,6 +51,7 @@ body {
 
 .conteudo__banner {
   width: 100%;
+  height: auto;
   background-color: var(--verde-claro);
   height: 496px;
   color: var(--branco);
