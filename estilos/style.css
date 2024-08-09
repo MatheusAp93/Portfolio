@@ -90,7 +90,7 @@ span {
 
 .conteudo__apresentacao__texto>p {
   font-size: 1.5rem;
-line-height: 2rem;
+  line-height: 2rem;
   text-align: justify;
 }
 
@@ -234,7 +234,7 @@ line-height: 2rem;
 }
 
 .logo__projeto {
-  width: 50%;
+  width: fit-content%;
 }
 
 .conteudo__projetos_item>a {
@@ -333,6 +333,7 @@ footer {
 
   .conteudo__apresentacao__texto>p {
     font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .foto__apresentacao {
@@ -348,6 +349,7 @@ footer {
 
   .conteudo__sobre_texto {
     font-size: 1rem;
+    line-height: 1.5rem;
     width: 100%;
   }
 
