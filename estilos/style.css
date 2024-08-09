@@ -53,13 +53,14 @@ body {
   width: 100%;
   height: fit-content;
   background-color: var(--verde-claro);
-  height: 496px;
+  height: fit-content;
   color: var(--branco);
 }
 
 .conteudo__apresentacao {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 
@@ -71,7 +72,7 @@ body {
   justify-content: center;
   gap: 30px;
   margin: 2rem;
-  padding: 2rem;
+  padding: 6rem;
 }
 
 .conteudo__apresentacao__texto>h1 {
@@ -89,7 +90,7 @@ span {
 
 .conteudo__apresentacao__texto>p {
   font-size: 1.5rem;
-line-height: 0.5rem;
+line-height: 2rem;
   text-align: justify;
 }
 
@@ -114,7 +115,7 @@ line-height: 0.5rem;
   color: var(--preto);
   font-family: var(--fonte-texto);
   font-size: 1.25rem;
-line-height: 0.5rem;
+line-height: 2rem;
   box-shadow: rgba(50, 200, 110, 1) 10px 10px 0px;
   width: 40%;
   display: flex;
